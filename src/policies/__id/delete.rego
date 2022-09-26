@@ -4,7 +4,7 @@ default allowed = false
 
 default visible = false
 
-default enabled = false
+default enabled = true
 
 allowed {
 	props = input.user.attributes.properties
